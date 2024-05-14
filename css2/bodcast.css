@@ -1,0 +1,72 @@
+.navbar-default{
+    background:none;
+    border: none;
+}
+
+.nav  li{
+    font-size:18px ;
+   margin-top: -35px;
+}
+.nav  li a{
+    color: #fff;
+}
+.logo{
+    margin-top: 10px;
+    margin-left: 1100px;
+}
+.BgColour {
+    transition: all 1s;
+    background-color:#C9DBCD;
+    border-bottom: 1px solid #c9dbcd;
+    /* background-color: #efd3cd; */
+    /* background-color: #000;
+    border-bottom: 1px solid #000; */
+    /* border-bottom: 1px solid #efd3cd; */
+    
+}
+/* end navbar */
+.back{
+    background-color:#C9DBCD; 
+    height: 50px;
+}
+/* start vedio */
+.vedio{
+    margin-top: 60px;
+}
+/* end vedio */
+
+/* start bodcast */
+.bodcast{
+    margin-top: 20px;
+    margin-bottom: 80px;
+}
+.bodcast .episodes{
+    margin-bottom: -90px;
+}
+
+/* end bodcast */
+
+/* start footer */
+.footer{
+    background-color: #c9dbcd;
+    color:#000;
+    padding-top: 20px;
+    margin-top: 20px;
+    line-height: 4.5;
+}
+
+.footer a {color:#aaa ;}
+
+.footer a:hover{
+    color: #fff;
+}
+
+.social i{
+width: 50px;
+height: 50px;
+  
+}
+
+ 
+
+/* end footer*/
